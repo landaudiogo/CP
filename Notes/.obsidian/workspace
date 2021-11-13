@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AVL/3. Delete.md",
+            "file": "Random.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AVL/3. Delete.md",
+                "file": "Random.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "ad79a9cd8c927fb0",
   "lastOpenFiles": [
-    "AVL/3. Delete.md",
-    "AVL/2. Insert.md",
-    "AVL/Deletion.md",
-    "AVL/1. Rotations.md",
-    "AVL/1. Roations.md",
-    "AVL/1. Insert.md",
-    "AVL/Untitled.md",
-    "AVL/0. Overview.md",
-    "AVL/Rotations.md",
-    "Untitled.md"
+    "Random.md",
+    "Untitled.md",
+    "Interests.md",
+    "Segment Tree/Applications.md",
+    "UFDS/Applications.md",
+    "Segment Tree/Untitled.md",
+    "UFDS/Untitled.md",
+    "BST/4..md",
+    "BST/3. Delete.md",
+    "BST/2. Insert.md"
   ]
 }
